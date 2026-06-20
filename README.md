@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Jason</h1>
+<h1 align="center">Hello! I'm Jason</h1>
 
 ---
 
-I am an undergraduate computer science student at Adelaide University. My interests mainly include AI/ML and deep learning. I am passionate about optimizing machine learning architectures, building complex models from scratch, and leveraging computer vision for real-world applications.
+I am an undergraduate computer science student at Adelaide University. My interests mainly include AI/ML and deep learning. I am passionate about machine learning. deep learning and computer vision
 
 ## Core Interests
 
