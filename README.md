@@ -10,7 +10,7 @@ I am an undergraduate computer science student at Adelaide University with a dee
 * **Systems Engineering for ML:** Bridging the gap between low-level hardware performance and high-level Python wrappers to explore machine learning environments.
 * **Distributed Computing:** Containerizing best practise machine learning workflows and building scalable training environments across multiple nodes.
 
-## What I'm Working On 
+## What I'm Working On:
 
 * **Cluster Orchestration & ML Infrastructure:** Designing and managing a 2-node local cluster using Multipass to orchestrate C++ training containers with the XGboost I coded. I am also engineering a Kubernetes cluster across WSL2 instances to efficiently pool and leverage cross-machine GPU resources.
 * **Adelaide University CS Club Infrastructure:** Serving as the Open Source and Infrastructure Manager for the Adelaide University Computer Science Club I, managw deployment, security, and services including Keycloak, Redis, Turso and the club's online applications.
@@ -21,20 +21,25 @@ I am an undergraduate computer science student at Adelaide University with a dee
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
   
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
   
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -59,10 +64,6 @@ I am an undergraduate computer science student at Adelaide University with a dee
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
