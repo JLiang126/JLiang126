@@ -1,19 +1,19 @@
-<h1 align="center">Hello! I'm Jason</h1>
+<h1 align="center">Hello! I'm Jason :D</h1>
 
 ---
 
-I am an undergraduate computer science student at Adelaide University. My interests mainly include AI/ML and deep learning. I am passionate about machine learning. deep learning and computer vision
+I am an undergraduate computer science student at Adelaide University with a deep passion for all things AI/ML and DL. 
 
-## Core Interests
+## My Current Interests include:
 
-* **Deep Learning Architectures:** Continuously diving into the structural mechanics of neural networks, focusing on backpropagation, residual blocks, and attention mechanisms.
-* **Systems Engineering for ML:** Bridging the gap between low-level hardware performance and high-level Python wrappers to create faster, more efficient machine learning environments.
-* **Distributed Computing:** Containerizing machine learning workflows, optimizing nearest-neighbor clustering algorithms like KD-Trees, and building scalable training environments across multiple nodes.
+* **Deep Learning Architectures:** Diving into the structural mechanics of CNNS, residual blocks, and transformers.
+* **Systems Engineering for ML:** Bridging the gap between low-level hardware performance and high-level Python wrappers to explore machine learning environments.
+* **Distributed Computing:** Containerizing best practise machine learning workflows and building scalable training environments across multiple nodes.
 
 ## What I'm Working On 
 
-* **Cluster Orchestration & ML Infrastructure:** Designing and managing a 2-node local cluster using Multipass to orchestrate C++ training containers. I am also engineering a Kubernetes cluster across WSL2 instances to efficiently pool and leverage cross-machine GPU resources.
-* **Adelaide University CS Club Infrastructure:** Serving as a developer and technical administrator, managing deployments, security, and services including Keycloak, Listmonk, and the club's website architecture.
+* **Cluster Orchestration & ML Infrastructure:** Designing and managing a 2-node local cluster using Multipass to orchestrate C++ training containers with the XGboost I coded. I am also engineering a Kubernetes cluster across WSL2 instances to efficiently pool and leverage cross-machine GPU resources.
+* **Adelaide University CS Club Infrastructure:** Serving as the Open Source and Infrastructure Manager for the Adelaide University Computer Science Club I, managw deployment, security, and services including Keycloak, Redis, Turso and the club's online applications.
 
 ---
 <p align="center">
