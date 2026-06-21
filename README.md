@@ -6,14 +6,14 @@ I am an undergraduate computer science student at Adelaide University with a dee
 
 ## My Current Interests include:
 
-* **Deep Learning Architectures:** Diving into the structural mechanics of CNNS, residual blocks, and transformers.
+* **Deep Learning Architectures:** Diving into the structural mechanics of CNNs, residual blocks, and transformers.
 * **Systems Engineering for ML:** Bridging the gap between low-level hardware performance and high-level Python wrappers to explore machine learning environments.
 * **Distributed Computing:** Containerizing best practise machine learning workflows and building scalable training environments across multiple nodes.
 
 ## What I'm Working On:
 
-* **Cluster Orchestration & ML Infrastructure:** Designing and managing a 2-node local cluster using Multipass to orchestrate C++ training containers with the XGboost I coded. I am also engineering a Kubernetes cluster across WSL2 instances to efficiently pool and leverage cross-machine GPU resources.
-* **Adelaide University CS Club Infrastructure:** Serving as the Open Source and Infrastructure Manager for the Adelaide University Computer Science Club I, managw deployment, security, and services including Keycloak, Redis, Turso and the club's online applications.
+* **Cluster Orchestration & ML Infrastructure:** Designing a 2-node local cluster using Multipass to orchestrate C++ training containers with the XGboost I coded.
+* **Adelaide University CS Club Infrastructure:** Serving as the Open Source and Infrastructure Manager for the Adelaide University Computer Science Club I manage deployment, security, and services including Keycloak, Redis, Turso and the club's online applications.
 
 ---
 <p align="center">
