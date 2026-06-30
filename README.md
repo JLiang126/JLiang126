@@ -4,13 +4,13 @@
 
 I am an undergraduate computer science student at Adelaide University with a deep passion for all things AI/ML and DL. 
 
-## My Current Interests include:
+# My Current Interests include:
 
 * **Deep Learning Architectures:** Diving into the structural mechanics of CNNs, residual blocks, and transformers.
 * **Systems Engineering for ML:** Bridging the gap between low-level hardware performance and high-level Python wrappers to explore machine learning environments.
 * **Distributed Computing:** Containerizing best practise machine learning workflows and building scalable training environments across multiple nodes.
 
-## What I'm Working On:
+# What I'm Working On:
 
 * **Cluster Orchestration & ML Infrastructure:** Designing a 2-node local cluster using Multipass to orchestrate C++ training containers with the XGboost I coded.
 * **Adelaide University CS Club Infrastructure:** Serving as the Open Source and Infrastructure Manager for the Adelaide University Computer Science Club I manage deployment, security, and services including Keycloak, Redis, Turso and the club's online applications.
@@ -32,6 +32,10 @@ I am an undergraduate computer science student at Adelaide University with a dee
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a> 
   
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -64,10 +68,6 @@ I am an undergraduate computer science student at Adelaide University with a dee
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
