@@ -1,7 +1,6 @@
 ## Hello! I'm Jason :D
 
 ---
-
 Undergraduate computer science student at Adelaide University with a deep passion for AI/ML and DL. 
 
 ### My Current Interests include:
