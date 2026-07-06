@@ -3,12 +3,6 @@
 ---
 Undergraduate computer science student at Adelaide University with a deep passion for AI/ML and DL. 
 
-### My Current Interests include:
-
-* **Deep Learning Architectures:** Diving into the structural mechanics of CNNs, residual blocks, and transformers.
-* **Systems Engineering for ML:** Bridging the gap between low-level hardware performance and high-level Python wrappers to explore machine learning environments.
-* **Distributed Computing:** Containerizing best practise machine learning workflows and building scalable training environments across multiple nodes.
-
 ### What I'm Working On:
 
 * **Cluster Orchestration & ML Infrastructure:** Designing a 2-node local cluster using Multipass to orchestrate C++ training containers with the XGboost I coded.
