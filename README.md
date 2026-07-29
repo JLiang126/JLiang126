@@ -1,14 +1,12 @@
 ## Hello! I'm Jason :D
 
----
 I am an undergraduate computer science student at Adelaide University with a deep passion for AI/ML and DL. 
 
 ### What I'm Working On:
 
 * **Cluster Orchestration & ML Infrastructure:** Designing a 2-node local cluster using Multipass to orchestrate C++ training containers with the XGboost I coded.
 * **Adelaide University CS Club Infrastructure:** Serving as the Open Source and Infrastructure Manager for the Adelaide University Computer Science Club I manage deployment, security, and services including Keycloak, Redis, Turso and the club's online applications.
-
----
+  
 <p align="center">
   </p>
 
